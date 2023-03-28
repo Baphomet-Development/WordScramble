@@ -11,6 +11,7 @@
 		96F159A929CCFCF400839973 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F159A829CCFCF400839973 /* ContentView.swift */; };
 		96F159AB29CCFCF600839973 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96F159AA29CCFCF600839973 /* Assets.xcassets */; };
 		96F159AE29CCFCF600839973 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 96F159AD29CCFCF600839973 /* Preview Assets.xcassets */; };
+		96F159B529CD050500839973 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 96F159B429CD050500839973 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		96F159A829CCFCF400839973 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		96F159AA29CCFCF600839973 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		96F159AD29CCFCF600839973 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		96F159B429CD050500839973 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = start.txt; path = Assets.xcassets/start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				96F159A629CCFCF400839973 /* WordScrambleApp.swift */,
 				96F159A829CCFCF400839973 /* ContentView.swift */,
 				96F159AA29CCFCF600839973 /* Assets.xcassets */,
+				96F159B429CD050500839973 /* start.txt */,
 				96F159AC29CCFCF600839973 /* Preview Content */,
 			);
 			path = WordScramble;
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				96F159AE29CCFCF600839973 /* Preview Assets.xcassets in Resources */,
+				96F159B529CD050500839973 /* start.txt in Resources */,
 				96F159AB29CCFCF600839973 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
